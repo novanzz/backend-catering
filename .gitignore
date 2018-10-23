@@ -1,3 +1,2 @@
 #test gitignore
-server.js
 node_modules/*
